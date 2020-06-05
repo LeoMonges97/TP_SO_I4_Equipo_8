@@ -13,3 +13,9 @@ A_azul
 B_amarillo
 c_blanco
 D_ Beta
+
+Respuestas Gamma
+A. Azul
+B. Amarillo
+C. Blanco
+D. Beta
