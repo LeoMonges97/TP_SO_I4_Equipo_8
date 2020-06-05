@@ -7,3 +7,9 @@ A_azul
 B_amarillo
 c_blanco
 D_ beta
+
+Respuestas Beta
+A_azul
+B_amarillo
+c_blanco
+D_ Beta
