@@ -19,3 +19,21 @@ A. Azul
 B. Amarillo
 C. Blanco
 D. Beta
+
+E) Beta
+
+F) Rejected, porque tengo un trabajo en la nube que no esta cargado localmente
+
+G) Hacer un pull para actualizar, add y subirlo con push incluyendo los cambios que se pisaron.
+O, elegir editando si querer conservar los cambios nuevos o dejarlo como estaba en la nube
+
+H) Sube el repositorio local sin importar que este o no actualizado al de la nube
+
+I) Tendriamos que hacer un nuevo commit con el nombre alfa, beta y gamma. Cada uno primero de forma local,
+  luego alfa hace push su nombre.
+
+Beta (con solo su nombre y ya con commit) debe hacer pull y creara un conflicto de lo subido en la nube con lo que tiene en local.
+Ahi debe aceptar ambos cambios y push -f
+
+Gamma (con solo su nombre y ya con commit) debe hacer pull y creara un conflicto de lo subido en la nube con lo que tiene en local.
+Ahi debe aceptar ambos cambios y push -f
